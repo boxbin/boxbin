@@ -16,6 +16,16 @@ The code will now be:
 let value = await hello();
 console.log(value);
 
+visual.exportData(models.ExportDataType.Summarized, 100)
+  .then(function (data) {
+    Log.log(data);
+  })
+  .catch(function (errors) {
+    Log.log(errors);
+  });
+
+  catch?
+  
  Triage, report...
  https://msit.powerbi.com/groups/me/reports/e900166f-9db6-4b05-9b35-a6d691a085f9/ReportSectiond547b627096a45fd0983?openReportSource=ReportInvitation&ctid=72f988bf-86f1-41af-91ab-2d7cd011db47
 
@@ -51,8 +61,6 @@ security decoy, power stick with server rack
 need anchors...
 
 custom package with raised ink (gloss) and stickers (promo/seal)
-
-https://github.com/lonekorean/diff-cam-engine
 
  to **Craigslist** [property](https://www.craigslist.com)
 
