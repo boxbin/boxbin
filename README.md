@@ -1,9 +1,15 @@
 
-## How to build strack
+## How to build strack with [⚙⚙](xn--8v8ha.ws) **[boxb.in](https://boxb.in)** and [⛓⛓](xn--l9ha.ws) **[boxcha.in](https://boxcha.in)**
 
-Use [📚📚](xn--zt8ha.ws) **[boxb.in](https://boxb.in)** [📮📮](xn--ku8ha.ws) **Project Docs** (*data store*) with the [⛓⛓](xn--l9ha.ws) **[boxcha.in](https://boxcha.in)** [♠♠](xn--b6ha.ws) (*app*)
+(*network*) to (*proxy*) to:
 
-Built on [🔩🔩](xn--8v8ha.ws) **[boltb.in](https://boltb.in)** [⚙⚙](xn--8v8ha.ws) OS (*file store*) with [🏳🏳](xn--en8ha.ws) [🏴🏳](xn--fn8ha.ws) **[tactician.us](https://tactician.us)** [🏴🏴](xn--en8hb.ws) [🏳🏴](xn--en8hc.ws) (*pool*)
+- (*data store*)
+- (*file store*)
+- (*unit pool*)
+
+...with (*app*)
+
+[📚📚](xn--zt8ha.ws) [📮📮](xn--ku8ha.ws) [🏳🏳](xn--en8ha.ws) [🏴🏳](xn--fn8ha.ws) [🏴🏴](xn--en8hb.ws) [🏳🏴](xn--en8hc.ws) [♠♠](xn--b6ha.ws) 
   
 - **Craigslist** [commercial](https://www.craigslist.com) with **Ziply** [internet](https://ziplyfiber.com/login) for **Google** [domain](https://domains.google.com) to **Dynu** [email](https://www.dynu.com) to **GoDaddy** [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30) on **NewEgg** [hardware](https://www.newegg.com)
 
@@ -14,3 +20,7 @@ For administrative, see [corp](https://ccfs.sos.wa.gov/#/Dashboard) - [license](
 For news, see [CSPAN](https://www.c-span.org/) - [BBC](http://feeds.bbci.co.uk/news/rss.xml) - [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - [Wikipedia](http://www.wikipedia.org/wiki/Special:Random)
 
 Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/)/[Bothell](http://www.ci.bothell.wa.us/) of [King County](https://www.kingcounty.gov/) [🌳🌳](xn--wh8ha.ws)
+
+
+
+Built by **[boltb.in](https://boltb.in)** [🔩🔩](xn--8v8ha.ws)
