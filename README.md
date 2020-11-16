@@ -3,9 +3,7 @@
 
 Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/)/[Bothell](http://www.ci.bothell.wa.us/) of [King County](https://www.kingcounty.gov/) [🌳🌳](xn--wh8ha.ws), built by **[boltb.in](https://boltb.in)** [🔩🔩](xn--8v8ha.ws) 
 
--  **Ziply** [internet](https://ziplyfiber.com/login) (*network*) with **NewEgg** [hardware](https://www.newegg.com) (*proxy*) [🏳🏳](xn--en8ha.ws)
-
-  - (*data*) [🏴🏴](xn--en8hb.ws), (*[file](https://boxb.in/file)*) [🏴🏳](xn--fn8ha.ws), (*[pool](https://boxb.in/pool)*) [🏳🏴](xn--en8hc.ws)
+-  **Ziply** [internet](https://ziplyfiber.com/login) (*network*) with **NewEgg** [hardware](https://www.newegg.com) (*proxy*) [🏳🏳](xn--en8ha.ws) to (*data*) [🏴🏴](xn--en8hb.ws), (*[file](https://boxb.in/file)*) [🏴🏳](xn--fn8ha.ws), (*[pool](https://boxb.in/pool)*) [🏳🏴](xn--en8hc.ws)
 
 - **Fiverr** [hire](https://www.fiverr.com/) to **Alibaba** [service](https://www.alibaba.com) with [package print]()
 
