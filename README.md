@@ -3,11 +3,19 @@
 
 Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/)/[Bothell](http://www.ci.bothell.wa.us/) of [King County](https://www.kingcounty.gov/) [🌳🌳](xn--wh8ha.ws) to **Craigslist** [property](https://www.craigslist.com)
 
-- **Ziply** [internet](https://ziplyfiber.com/login) (*network*) on **NewEgg** [hardware](https://www.newegg.com) (*proxy*) to **Google** [domain](https://domains.google.com) - **Dynu** [email](https://www.dynu.com) - **GoDaddy** [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30)
-  
-  - **[boxb.in](https://boxb.in)** [⚙⚙](xn--8v8ha.ws) (*site*) to [data](https://boxb.in) [🏴🏴](xn--en8hb.ws) | [file](https://boxb.in/file) [🏴🏳](xn--fn8ha.ws) | [pool](https://boxb.in/pool) [🏳🏴](xn--en8hc.ws) with [repo](https://github.com/boxbin) [🏳🏳](xn--en8ha.ws)
+- **NewEgg** [hardware](https://www.newegg.com) with **Google** [domain](https://domains.google.com) - **Dynu** [email](https://www.dynu.com) - **GoDaddy** [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30)
 
-  - **[boxcha.in](https://boxcha.in)** [⛓⛓](xn--l9ha.ws) (*app*)  
+  - **Ziply** [internet](https://ziplyfiber.com/login) (*network*) (*proxy*)
+  
+    - **[boxb.in](https://boxb.in)** [⚙⚙](xn--8v8ha.ws) (*site*) (*data*) [🏴🏴](xn--en8hb.ws)
+  
+    - [file](https://boxb.in/file) [🏴🏳](xn--fn8ha.ws)
+  
+    - [pool](https://boxb.in/pool) [🏳🏴](xn--en8hc.ws)
+  
+    - [repo](https://github.com/boxbin) [🏳🏳](xn--en8ha.ws)
+
+    - **[boxcha.in](https://boxcha.in)** [⛓⛓](xn--l9ha.ws) (*app*)  
 
 - **Fiverr** [hire](https://www.fiverr.com/) to **Alibaba** [service](https://www.alibaba.com) with [package print]()
 
