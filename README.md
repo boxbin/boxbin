@@ -1,15 +1,9 @@
 
-## Build strack
+## How to build strack
 
-Includes:
+Uses [📚📚](xn--zt8ha.ws) [boxb.in](https://boxb.in) [📮📮](xn--ku8ha.ws) Project Docs (*data store*) with the [⛓⛓](xn--l9ha.ws) [boxcha.in](https://boxcha.in) [♠♠](xn--b6ha.ws) (*app*)
 
-[📚📚](xn--zt8ha.ws) [boxb.in](https://boxb.in) [📮📮](xn--ku8ha.ws) Project Docs (*data store*)
-
-[⛓⛓](xn--l9ha.ws) [boxcha.in](https://boxcha.in) [♠♠](xn--b6ha.ws) (*app*)
-
-[🏳🏳](xn--en8ha.ws) [🏴🏳](xn--fn8ha.ws) [tactician.us](https://tactician.us) [🏴🏴](xn--en8hb.ws) [🏳🏴](xn--en8hc.ws) (*site tools*)
-
-Built on [🔩🔩](xn--8v8ha.ws) [boltb.in](https://boltb.in) [⚙⚙](xn--8v8ha.ws) OS (*file store*)
+Built on [🔩🔩](xn--8v8ha.ws) [boltb.in](https://boltb.in) [⚙⚙](xn--8v8ha.ws) OS (*file store*) with [🏳🏳](xn--en8ha.ws) [🏴🏳](xn--fn8ha.ws) [tactician.us](https://tactician.us) [🏴🏴](xn--en8hb.ws) [🏳🏴](xn--en8hc.ws) (*site tools*)
 
 Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/)/[Bothell](http://www.ci.bothell.wa.us/) of [King County](https://www.kingcounty.gov/) [🌳🌳](xn--wh8ha.ws)
   
@@ -20,5 +14,3 @@ Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.
 For administrative, see [corp](https://ccfs.sos.wa.gov/#/Dashboard) - [license](https://secure.dor.wa.gov/) - [copyright](https://eco.copyright.gov/eService_enu/start.swe?SWECmd=Login&SWEPL=1&SRN=&SWETS=1584673446735) - [patent/trademark](https://www.uspto.gov/)
   
 For news updates, see [CSPAN](https://www.c-span.org/) - [BBC](http://feeds.bbci.co.uk/news/rss.xml) - [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - [Wikipedia](http://www.wikipedia.org/wiki/Special:Random)
-
-[escrow](https://my.escrow.com/myescrow/MyTransactions.asp?hid=mt) [sebolt.us](https://sebolt.us)
