@@ -1,16 +1,14 @@
 
-## How to build strack with [⚙⚙](xn--8v8ha.ws) **[boxb.in](https://boxb.in)** and [⛓⛓](xn--l9ha.ws) **[boxcha.in](https://boxcha.in)**
+## How to build strack with **[boxb.in](https://boxb.in)** [⚙⚙](xn--8v8ha.ws) 
 
 (*network*) to (*proxy*) to:
 
-- (*data store*)
-- (*file store*)
-- (*unit pool*)
+- [data](https://boxb.in) [🏴🏴](xn--en8hb.ws)
+- [file](https://boxb.in/file) [🏳🏴](xn--en8hc.ws)
+- [pool](https://boxb.in/pool) [🏴🏳](xn--fn8ha.ws)
 
-...with (*app*)
+...with **[boxcha.in](https://boxcha.in)** [⛓⛓](xn--l9ha.ws) (*app*) and [repo](https://github.com/boxbin) [🏳🏳](xn--en8ha.ws) 
 
-[📚📚](xn--zt8ha.ws) [📮📮](xn--ku8ha.ws) [🏳🏳](xn--en8ha.ws) [🏴🏳](xn--fn8ha.ws) [🏴🏴](xn--en8hb.ws) [🏳🏴](xn--en8hc.ws) [♠♠](xn--b6ha.ws) 
-  
 - **Craigslist** [commercial](https://www.craigslist.com) with **Ziply** [internet](https://ziplyfiber.com/login) for **Google** [domain](https://domains.google.com) to **Dynu** [email](https://www.dynu.com) to **GoDaddy** [emain](https://dcc.godaddy.com/domains/?isc=cjc1off30) on **NewEgg** [hardware](https://www.newegg.com)
 
 - **Alibaba** [service](https://www.alibaba.com) to [print]() and **USPS** [ship](https://www.usps.com/business/web-tools-apis/documentation-updates.htm) from **Fiverr** [hire](https://www.fiverr.com/) and **Chase** [payment](https://developer.authorize.net/api/reference/index.html#payment-transactions-debit-a-bank-account) or **Google** [ads](https://www.google.com/adsensenew/u/0/pub-1429497248082414/home?hl=en-US&signup-no-redirect=true)
@@ -21,6 +19,4 @@ For news, see [CSPAN](https://www.c-span.org/) - [BBC](http://feeds.bbci.co.uk/n
 
 Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/)/[Bothell](http://www.ci.bothell.wa.us/) of [King County](https://www.kingcounty.gov/) [🌳🌳](xn--wh8ha.ws)
 
-
-
-Built by **[boltb.in](https://boltb.in)** [🔩🔩](xn--8v8ha.ws)
+Built by [🔩🔩](xn--8v8ha.ws) **[boltb.in](https://boltb.in)**
