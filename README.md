@@ -3,9 +3,9 @@
 
 Located at 19500 130th AV NE, 98072 in [Woodinville](https://www.ci.woodinville.wa.us/)/[Bothell](http://www.ci.bothell.wa.us/) of [King County](https://www.kingcounty.gov/) [🌳🌳](xn--wh8ha.ws)
 
-- Use **Ziply** [internet](https://ziplyfiber.com/login) with **NewEgg** [hardware](https://www.newegg.com) to support
+- Use **Ziply** [internet](https://ziplyfiber.com/login) with **NewEgg** [hardware](https://www.newegg.com)
 
-  - *proxy* [🏳🏳](xn--en8ha.ws) to *data* [🏴🏴](xn--en8hb.ws) | *[file](https://boxb.in/file)* [🏴🏳](xn--fn8ha.ws) | *[pool](https://boxb.in/pool)* [🏳🏴](xn--en8hc.ws)
+  - *proxy* [🏳🏳](xn--en8ha.ws) to *data* [🏴🏴](xn--en8hb.ws) | *[file](https://boxb.in/file)* [🏴🏳](xn--fn8ha.ws) | *[pool](https://boxb.in/pool)* [🏳🏴](xn--en8hc.ws) ...
 
 - Use **Fiverr** [hire](https://www.fiverr.com/) to **Alibaba** [service](https://www.alibaba.com) with [package print]() for **Chase** [payment](https://developer.authorize.net/api/reference/index.html#payment-transactions-debit-a-bank-account) to **USPS** [ship](https://www.usps.com/business/web-tools-apis/documentation-updates.htm)
 
